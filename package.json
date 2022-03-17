@@ -1,12 +1,14 @@
 {
   "name": "bundle-stylelint",
   "version": "0.0.0",
+  "keywords": [],
+  "description": "",
   "scripts": {
     "start": "webpack",
     "build": "webpack"
   },
   "dependencies": {
-    "stylelint": "14.5.3",
+    "stylelint": "14.6.0",
     "webpack": "5.70.0",
     "webpack-cli": "4.9.2"
   }
